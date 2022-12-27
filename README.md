@@ -18,7 +18,7 @@ This is an full stack application where the user can raise a ticket for any issu
 ### Filled Input
 ![alt text](https://github.com/tpemba100/ComputerTicketSystem/blob/master/git img/local-token.png?raw=true)
 
-![alt text](https://github.com/tpemba100/ComputerTicketSystem/blob/master/git img/local-token.png?raw=true)
+![alt text](https://github.com/tpemba100/ComputerTicketSystem/blob/master/git%20img/local-token.png)
 
 ## Technologies
 - React (Frontend View Framework)
