@@ -12,9 +12,12 @@ This is an full stack application where the user can raise a ticket for any issu
 - Communicating with backend server to save the user info and tokens in database.
 - Communicating with backend server to save the tickets a raised by the user.
 
-![caption](img/todoapp.gif)
+## User Flow
+![caption](git img/Computer Ticketing.gif)
 
-![alt text](https://github.com/tpemba100/todo-app/blob/master/img/7.png?raw=true)
+
+
+![alt text](https://github.com/tpemba100/ComputerTicketSystem/git img/local-token.png?raw=true)
 
 ## Technologies
 - React (Frontend View Framework)
