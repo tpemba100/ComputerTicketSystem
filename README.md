@@ -1,4 +1,4 @@
-### Computer Repair Tickeeitng System
+### Computer Repair Ticketing Application
 
 ## Description
 This is an full stack application where the user can raise a ticket for any issues with their computer. The users can provide information in the reactive forms to raise a ticket. Only authticated users can login and raise a ticket.
