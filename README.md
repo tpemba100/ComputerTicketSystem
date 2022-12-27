@@ -13,11 +13,13 @@ This is an full stack application where the user can raise a ticket for any issu
 - Communicating with backend server to save the tickets a raised by the user.
 
 ## User Flow
-![caption](/git img/computer ticket.gif
+![caption](git img/computer ticket.GIF)
 
-### Filled Input
+### User's Local Storage Tokens
 ![alt text](https://github.com/tpemba100/ComputerTicketSystem/blob/master/git%20img/local-token.png)
+### MonngoDB Database Users
 ![alt text](https://github.com/tpemba100/ComputerTicketSystem/blob/master/git%20img/MongoDB-users.png)
+### MongoDB Database Tickets
 ![alt text](https://github.com/tpemba100/ComputerTicketSystem/blob/master/git%20img/MongoDb-tickets.png)
 
 ## Technologies
