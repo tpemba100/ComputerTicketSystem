@@ -13,9 +13,7 @@ This is an full stack application where the user can raise a ticket for any issu
 - Communicating with backend server to save the tickets a raised by the user
 
 ## User Flow
-![caption](git img/computer ticket.gif)
-![Alt Text](git img/computer ticket.gif)
-
+![](https://github.com/tpemba100/ComputerTicketSystem/blob/master/git%20img/computer%20ticket.gif)
 
 ### User's Local Storage Tokens
 ![alt text](https://github.com/tpemba100/ComputerTicketSystem/blob/master/git%20img/local-token.png)
