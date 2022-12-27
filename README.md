@@ -14,6 +14,7 @@ This is an full stack application where the user can raise a ticket for any issu
 
 ## User Flow
 ![caption](git img/computer ticket.gif)
+![Alt Text](git img/computer ticket.gif)
 
 
 ### User's Local Storage Tokens
