@@ -9,8 +9,8 @@ This is an full stack application where the user can raise a ticket for any issu
 - Authentication token saved in local storage (localstorage:3000)
 - Raising a ticket for repair that can be submitted
 - Reactive Form that changes based on the user's option
-- Communicating with backend server to save the user info and tokens in database.
-- Communicating with backend server to save the tickets a raised by the user.
+- Communicating with backend server to save the user info and tokens in database
+- Communicating with backend server to save the tickets a raised by the user
 
 ## User Flow
 ![caption](git img/computer ticket.gif)
