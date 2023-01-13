@@ -10,7 +10,7 @@ This is an full stack application where the user can raise a ticket for any issu
 - Raising a ticket for repair that can be submitted
 - Reactive Form that changes based on the user's option
 - Communicating with backend server to save the user info and tokens in database
-- Communicating with backend server to save the tickets a raised by the user
+- Communicating with backend server to save the tickets raised by the user
 
 ## User Flow
 ![](https://github.com/tpemba100/ComputerTicketSystem/blob/master/git%20img/computer%20ticket.gif)
